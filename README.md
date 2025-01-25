@@ -7,8 +7,8 @@ To create a user-friendly travel deal tracker system that integrates with APIs, 
 
 Project Deliverables
   1. Prototype Development
-      •Create wireframes for the user interface using tools like Figma and Canva.
-      • Develop a basic version of the system with core functionality (search, filters, deal display).
+     •Create wireframes for the user interface using tools like Figma and Canva.
+     • Develop a basic version of the system with core functionality (search, filters, deal display).
   3. Application Interface
     • Design a simple and clean search form.
     • Implement filters for destination, budget, and travel dates.
