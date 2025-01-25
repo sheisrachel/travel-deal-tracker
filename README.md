@@ -7,20 +7,20 @@ To create a user-friendly travel deal tracker system that integrates with APIs, 
 
 Project Deliverables
   1. Prototype Development
-    • Create wireframes for the user interface using tools like Figma and Canva.
-    • Develop a basic version of the system with core functionality (search, filters, deal display).
-  2. Application Interface
+      •Create wireframes for the user interface using tools like Figma and Canva.
+      • Develop a basic version of the system with core functionality (search, filters, deal display).
+  3. Application Interface
     • Design a simple and clean search form.
     • Implement filters for destination, budget, and travel dates.
     • Display deals with affiliate links in a responsive layout.
-  3. Content Analysis Engine
+  4. Content Analysis Engine
     • Integrate APIs (Skyscanner, Priceline, HostelWorld, etc) for getting travel deals.
     • Parse and format API data into user-friendly results.
-  4. Documentation
+  5. Documentation
     • API integration guide.
     • User manual for future enhancements.
     • Class documentation for PHP/Laravel code.
-  5. Testing and Quality Assurance
+  6. Testing and Quality Assurance
     • Unit testing for API integration and deal display.
     • Functional testing for search and filter features.
     • Usability testing to ensure a seamless user experience.
